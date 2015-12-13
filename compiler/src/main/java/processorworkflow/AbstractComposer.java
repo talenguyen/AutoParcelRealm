@@ -1,7 +1,6 @@
 package processorworkflow;
 
 import com.squareup.javapoet.JavaFile;
-
 import java.util.ArrayList;
 import java.util.List;
 

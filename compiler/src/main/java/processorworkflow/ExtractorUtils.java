@@ -3,10 +3,8 @@ package processorworkflow;
 import com.google.auto.common.MoreElements;
 import com.google.auto.common.MoreTypes;
 import com.google.common.base.Optional;
-
 import java.lang.annotation.Annotation;
 import java.util.Map;
-
 import javax.lang.model.element.AnnotationMirror;
 import javax.lang.model.element.AnnotationValue;
 import javax.lang.model.element.Element;

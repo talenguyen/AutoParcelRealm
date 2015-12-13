@@ -1,1 +1,1 @@
-include ':annotations', ':compiler', ':util', ':autoparcelrealmexample'
+include ':annotations', ':compiler', ':autoparcelrealmexample'

@@ -2,7 +2,6 @@ package processorworkflow;
 
 import java.util.LinkedList;
 import java.util.List;
-
 import javax.annotation.processing.Messager;
 import javax.lang.model.element.Element;
 import javax.tools.Diagnostic;
