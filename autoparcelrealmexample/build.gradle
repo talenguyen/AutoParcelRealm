@@ -28,5 +28,5 @@ dependencies {
   compile 'com.github.frankiesardo:auto-parcel:0.3.1'
   apt 'com.github.frankiesardo:auto-parcel-processor:0.3.1'
 //  compile 'com.github.talenguyen:AutoParcelRealm:0.0.1'
-  compile 'com.github.talenguyen:AutoParcelRealm:undefined'
+//  compile 'com.github.talenguyen:AutoParcelRealm:0.0.2'
 }
