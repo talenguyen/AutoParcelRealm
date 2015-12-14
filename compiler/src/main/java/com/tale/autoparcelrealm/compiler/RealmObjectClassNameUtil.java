@@ -1,4 +1,4 @@
-package com.tale.realmmapper;
+package com.tale.autoparcelrealm.compiler;
 
 import com.google.auto.common.MoreElements;
 import com.squareup.javapoet.ClassName;

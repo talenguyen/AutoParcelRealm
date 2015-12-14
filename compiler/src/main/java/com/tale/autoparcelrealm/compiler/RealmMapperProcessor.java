@@ -5,7 +5,7 @@
  * Copyright (c) 2015 Umbala. All rights reserved.
  */
 
-package com.tale.realmmapper;
+package com.tale.autoparcelrealm.compiler;
 
 import com.google.auto.service.AutoService;
 import java.util.LinkedList;

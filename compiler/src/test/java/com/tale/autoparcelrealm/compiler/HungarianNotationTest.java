@@ -1,4 +1,4 @@
-package com.tale.realmmapper;
+package com.tale.autoparcelrealm.compiler;
 
 import org.junit.Assert;
 import org.junit.Test;

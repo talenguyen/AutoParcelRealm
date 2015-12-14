@@ -5,7 +5,7 @@
  * Copyright (c) 2015 Umbala. All rights reserved.
  */
 
-package com.tale.realmmapper;
+package com.tale.autoparcelrealm.compiler;
 
 import com.squareup.javapoet.TypeName;
 

@@ -1,4 +1,4 @@
-package com.tale.realmmapper;
+package com.tale.autoparcelrealm.compiler;
 
 /**
  * Little helper class to deal with hungarian notation

@@ -5,10 +5,10 @@
  * Copyright (c) 2015 Umbala. All rights reserved.
  */
 
-package com.tale.realmmapper;
+package com.tale.autoparcelrealm.compiler;
 
 import com.google.auto.common.MoreElements;
-import com.tale.prettybundle.RealmObject;
+import com.tale.autoparcelrealm.annotation.RealmObject;
 import java.lang.annotation.Annotation;
 import java.util.HashSet;
 import java.util.Set;

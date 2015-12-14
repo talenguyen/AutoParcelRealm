@@ -5,10 +5,10 @@
  * Copyright (c) 2015 Umbala. All rights reserved.
  */
 
-package com.tale.realmmapper;
+package com.tale.autoparcelrealm.compiler;
 
 import com.squareup.javapoet.TypeName;
-import com.tale.prettybundle.RealmObject;
+import com.tale.autoparcelrealm.annotation.RealmObject;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Set;
